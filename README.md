@@ -1,7 +1,7 @@
 SITE Pre-Work Submission
 Name: [Aisha Chowdhury]
 
-1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. [google.com, https://tenor.com/,https://www.w3schools.com/]
+1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. [www.google.com, https://tenor.com/,https://www.w3schools.com/]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) [One challenge I faced was to adjust the margin to get all the elements of the page in the center. I solved this issue by searching it on google and looking at the W3Schools website.]
 
